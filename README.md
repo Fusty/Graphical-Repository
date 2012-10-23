@@ -2,13 +2,15 @@ Graphical Repository
 
 For storage and version control of Graphics used by Parking and Transportation Services at the University of Akron
 
-    [Football Repository]: /tree/master/Football
+[Football Repository][]
 
-    [Roo Express]: /tree/master/Roo%20Express
+[Football Repository]: /tree/master/Football
 
-    [Lot Diagrams]: /tree/master/Lot%20Diagrams
+[Roo Express]: /tree/master/Roo%20Express
 
-    [Maps]: /tree/master/Maps
+[Lot Diagrams]: /tree/master/Lot%20Diagrams
 
-    [Misc]: /tree/master/misc
+[Maps]: /tree/master/Maps
+
+[Misc]: /tree/master/misc
 
