@@ -4,13 +4,13 @@ For storage and version control of Graphics used by Parking and Transportation S
 
 [Football Repository][]
 
-[Football Repository]: /tree/master/Football
+[Football Repository]: /fusty/Graphical-Repository/tree/master/Football
 
-[Roo Express]: /tree/master/Roo%20Express
+[Roo Express]: /fusty/Graphical-Repository/tree/master/Roo%20Express
 
-[Lot Diagrams]: /tree/master/Lot%20Diagrams
+[Lot Diagrams]: /fusty/Graphical-Repository/tree/master/Lot%20Diagrams
 
-[Maps]: /tree/master/Maps
+[Maps]: /fusty/Graphical-Repository/tree/master/Maps
 
-[Misc]: /tree/master/misc
+[Misc]: /fusty/Graphical-Repository/tree/master/misc
 
